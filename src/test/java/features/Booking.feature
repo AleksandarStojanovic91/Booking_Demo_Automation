@@ -12,6 +12,8 @@ Feature: Booking
     * I see Availability of first result
     * I verify availability information
 
+
     Examples:
       | row |
       | 1   |
+      | 2   |

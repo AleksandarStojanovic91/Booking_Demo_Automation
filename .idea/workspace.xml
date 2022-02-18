@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ad3c4c3-7883-4193-ac53-78dc77efb9f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/features/Booking.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/features/Booking.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/features/IFrame.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/CommonMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/ResultPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/SearchResultPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/StaysPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runners/FrameExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steps/BookingSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/BookingSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
